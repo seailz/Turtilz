@@ -1,0 +1,7 @@
+name: Turtilz
+version: ${project.version}
+main: com.seailz.turtilz.Turtilz
+api-version: 1.18
+authors: [ Seailz ]
+description: A plugin for turtilz
+website: www.seailz.com
